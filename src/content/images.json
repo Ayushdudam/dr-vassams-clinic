@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "filename": "chamomile-botanical.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "Hero & Editorial Sections",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Original hand-crafted botanical line art of Matricaria chamomilla, symbolizing natural pharmacopoeia without depicting actual persons or medications."
+    },
+    {
+      "filename": "arnica-botanical.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "About & Consultation Approach",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Original botanical line illustration of Arnica montana in minimalist deep forest stroke."
+    },
+    {
+      "filename": "apothecary-flacon.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "Services Overview Section",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Refined vector line art of a classical apothecary glass flacon, representing clinical dispensary care."
+    },
+    {
+      "filename": "mortar-pestle.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "Consultation Process & Expectations",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Classical pharmaceutical mortar and pestle vector line art signifying measured preparation."
+    },
+    {
+      "filename": "doctor-monogram-emblem.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "Doctor Biography Slot (replaces missing portrait)",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Bespoke typographic monogram badge for Dr. Srinivas Vasam (SV), designed with config slot fallback."
+    },
+    {
+      "filename": "botanical-ivory-composition.svg",
+      "format": "SVG (Vector line art)",
+      "placement": "Hero Visual Panel (4:5 Forest-Green Container)",
+      "author": "Antigravity Creative Studio",
+      "sourceUrl": "Self-authored vector asset",
+      "license": "Proprietary / Client Exclusive Work Product",
+      "downloadDate": "2026-10-11",
+      "description": "Layered multi-sprig botanical vector composition in warm ivory lines on forest-green background with radial halo."
+    }
+  ]
+}

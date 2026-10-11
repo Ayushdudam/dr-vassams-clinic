@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 625" fill="none" stroke="#FBF8F1" stroke-linecap="round" stroke-linejoin="round">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#2C5B55" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1F3D33" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ambient Glow Behind Flora -->
+  <rect width="500" height="625" fill="url(#halo)" />
+
+  <!-- Background Layer: Subtle Large Chamomile Sprig (low opacity) -->
+  <g opacity="0.18" stroke-width="1.5">
+    <path d="M380,550 C370,420 330,300 290,180" />
+    <path d="M330,340 C280,310 240,280 220,230" />
+    <ellipse cx="290" cy="160" rx="30" ry="22" fill="#FBF8F1" fill-opacity="0.1" />
+    <!-- Radiating petals -->
+    <path d="M290,138 C290,105 285,85 290,70 C295,85 290,105 290,138 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M308,142 C325,115 342,100 352,95 C348,110 335,128 318,148 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M318,155 C350,148 372,146 390,146 C376,156 352,162 318,165 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M317,169 C348,178 370,188 384,198 C368,201 346,192 313,178 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M304,178 C320,202 332,224 338,238 C324,233 310,214 296,182 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M272,176 C255,202 242,222 230,232 C238,216 252,198 266,174 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M262,166 C232,178 210,186 194,194 C205,183 224,172 260,161 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M260,154 C228,148 205,142 186,138 C205,131 228,137 262,148 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M270,143 C252,118 236,102 222,92 C230,105 246,124 275,140 Z" fill="#FBF8F1" fill-opacity="0.15" />
+  </g>
+
+  <!-- Midground Layer: Arnica & Medicinal Leaves (medium opacity) -->
+  <g opacity="0.35" stroke-width="1.8">
+    <path d="M140,580 C150,440 180,320 210,220" />
+    <path d="M150,490 C110,470 80,440 60,400 C90,405 125,435 150,470 Z" fill="#FBF8F1" fill-opacity="0.08" />
+    <path d="M165,430 C205,410 235,385 255,345 C225,350 190,380 165,415 Z" fill="#FBF8F1" fill-opacity="0.08" />
+    <path d="M180,350 C145,335 120,310 100,280 C130,285 160,310 180,335 Z" fill="#FBF8F1" fill-opacity="0.08" />
+    <!-- Secondary Arnica Flower -->
+    <circle cx="215" cy="205" r="18" fill="#FBF8F1" fill-opacity="0.12" stroke-width="2" />
+    <path d="M215,185 C213,160 210,140 215,128 C220,140 217,160 215,185 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M228,188 C242,168 258,152 270,144 C263,156 249,176 232,192 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M233,200 C258,193 282,189 298,187 C286,197 266,203 235,205 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M231,211 C258,219 278,230 292,240 C278,239 258,230 230,217 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M223,220 C238,241 250,261 258,275 C248,267 235,251 220,223 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M210,224 C207,249 204,271 201,285 C197,271 199,249 207,224 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M203,218 C188,240 174,259 164,272 C172,261 185,243 198,215 Z" fill="#FBF8F1" fill-opacity="0.15" />
+    <path d="M195,209 C169,216 148,224 134,231 C146,221 168,212 193,204 Z" fill="#FBF8F1" fill-opacity="0.15" />
+  </g>
+
+  <!-- Foreground Main Sprig: Matricaria Chamomilla (Crisp ivory lines) -->
+  <g opacity="0.88" stroke-width="2">
+    <!-- Main Arching Stem -->
+    <path d="M250,600 C245,480 260,360 250,250" stroke-width="2.6" />
+    <path d="M250,420 C210,390 175,350 160,290" stroke-width="2" />
+    <path d="M250,340 C290,310 330,280 345,220" stroke-width="2" />
+
+    <!-- Feathery foliage along the stem -->
+    <path d="M248,490 C225,483 205,477 185,483 M212,481 C210,464 202,451 193,444" />
+    <path d="M252,465 C275,458 295,452 312,458 M283,456 C287,439 295,426 305,420" />
+    <path d="M248,410 C231,403 212,400 199,407" />
+    <path d="M205,372 C185,366 172,360 159,366" />
+    <path d="M276,310 C296,303 313,297 326,303" />
+
+    <!-- Center Primary Flower Head -->
+    <ellipse cx="250" cy="220" rx="28" ry="20" fill="#FBF8F1" fill-opacity="0.95" stroke="#1F3D33" stroke-width="2.5" />
+    <path d="M237,215 C243,212 257,212 263,215 M234,222 C242,220 258,220 266,222 M239,229 C246,226 254,226 261,229" stroke="#1F3D33" stroke-width="1.4" opacity="0.75" />
+
+    <!-- Radiating Delicate Ivory Petals -->
+    <path d="M250,199 C250,168 244,149 250,136 C256,149 250,168 250,199 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M268,203 C286,179 301,166 311,159 C307,171 295,188 278,208 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M277,215 C308,207 329,205 346,205 C333,215 311,220 278,224 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M276,229 C304,237 324,246 337,256 C322,258 301,250 271,237 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M263,238 C278,261 288,281 293,294 C281,289 268,271 255,240 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M248,240 C245,268 243,291 240,306 C235,291 235,268 240,240 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M235,236 C219,260 206,278 195,288 C202,273 215,255 229,232 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M225,228 C197,238 176,246 161,253 C171,243 189,233 222,222 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M222,216 C193,210 171,205 153,201 C171,195 193,200 225,210 Z" fill="#FBF8F1" stroke-width="1.8" />
+    <path d="M231,205 C215,182 200,166 187,156 C195,168 210,186 236,202 Z" fill="#FBF8F1" stroke-width="1.8" />
+
+    <!-- Left Lateral Bud -->
+    <ellipse cx="160" cy="280" rx="16" ry="12" fill="#FBF8F1" fill-opacity="0.92" stroke="#1F3D33" stroke-width="2" />
+    <path d="M160,268 C160,250 156,238 160,228 C164,238 160,250 160,268 Z" fill="#FBF8F1" stroke-width="1.5" />
+    <path d="M171,270 C183,254 193,244 200,239 C197,249 187,260 176,274 Z" fill="#FBF8F1" stroke-width="1.5" />
+    <path d="M149,271 C137,255 127,245 119,241 C124,250 133,261 145,275 Z" fill="#FBF8F1" stroke-width="1.5" />
+  </g>
+
+  <!-- Editorial Corner Marks -->
+  <g stroke="#A9B8A0" stroke-width="1.5" opacity="0.6">
+    <path d="M30,30 L30,55 M30,30 L55,30" />
+    <path d="M470,30 L470,55 M470,30 L445,30" />
+    <path d="M30,595 L30,570 M30,595 L55,595" />
+    <path d="M470,595 L470,570 M470,595 L445,595" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" stroke="#1F3D33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Classical Apothecary Mortar & Pestle -->
+  <g opacity="0.9">
+    <!-- Pestle Handle -->
+    <path d="M260,70 C270,60 285,65 292,75 C300,85 295,100 285,110 L215,225 C205,240 190,250 175,250 C165,250 155,242 155,232 L225,120 Z" fill="#F3EEE2" stroke-width="2.2" />
+    <ellipse cx="282" cy="85" rx="12" ry="16" transform="rotate(35 282 85)" fill="#1F3D33" opacity="0.15" />
+
+    <!-- Mortar Rim -->
+    <ellipse cx="200" cy="210" rx="110" ry="24" fill="#FBF8F1" stroke-width="2.5" />
+    <ellipse cx="200" cy="210" rx="98" ry="18" fill="#F3EEE2" stroke-width="1.5" />
+    
+    <!-- Mortar Bowl Body -->
+    <path d="M90,210 C90,290 135,340 170,345 L230,345 C265,340 310,290 310,210" stroke-width="2.5" fill="#FBF8F1" />
+    
+    <!-- Mortar Solid Base -->
+    <path d="M160,345 L150,365 C150,370 160,375 200,375 C240,375 250,370 250,365 L240,345 Z" fill="#F3EEE2" stroke-width="2" />
+    
+    <!-- Decorative Bowl Accent Lines -->
+    <path d="M110,235 C125,290 160,320 200,320 C240,320 275,290 290,235" stroke-width="1.2" opacity="0.4" />
+    <circle cx="200" cy="275" r="4" fill="#1F3D33" opacity="0.4" />
+  </g>
+</svg>

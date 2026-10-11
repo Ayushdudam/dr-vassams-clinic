@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" stroke="#1F3D33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Arnica Montana Botanical Illustration -->
+  <g opacity="0.9">
+    <!-- Upright Sturdy Stem -->
+    <path d="M200,380 C202,300 198,220 200,150" stroke-width="2.5" />
+    
+    <!-- Opposite Sessile Leaves -->
+    <path d="M199,320 C160,305 130,285 110,250 C140,255 175,280 199,310 Z" fill="#F3EEE2" />
+    <path d="M201,315 C240,300 270,280 290,245 C260,250 225,275 201,305 Z" fill="#F3EEE2" />
+    
+    <path d="M199,250 C170,238 145,220 130,195 C155,200 180,220 199,242 Z" fill="#F3EEE2" />
+    <path d="M201,245 C230,233 255,215 270,190 C245,195 220,215 201,237 Z" fill="#F3EEE2" />
+    
+    <!-- Flower Involucre & Disc -->
+    <circle cx="200" cy="130" r="24" fill="#F3EEE2" stroke="#1F3D33" stroke-width="2.2" />
+    <circle cx="200" cy="130" r="16" stroke="#1F3D33" stroke-width="1.2" stroke-dasharray="3 3" />
+    <circle cx="200" cy="130" r="8" fill="#1F3D33" opacity="0.15" />
+    
+    <!-- Distinctive Pointed / Toothed Ray Florets -->
+    <path d="M200,106 C198,75 194,50 200,35 C206,50 202,75 200,106 Z" fill="#FBF8F1" />
+    <path d="M217,110 C235,85 255,65 270,55 C262,70 245,95 223,115 Z" fill="#FBF8F1" />
+    <path d="M224,124 C255,115 285,110 305,108 C290,120 265,128 227,131 Z" fill="#FBF8F1" />
+    <path d="M222,138 C255,148 280,162 298,175 C280,174 255,162 221,146 Z" fill="#FBF8F1" />
+    <path d="M212,149 C230,175 245,200 255,218 C242,208 226,188 208,153 Z" fill="#FBF8F1" />
+    <path d="M196,154 C192,185 188,212 185,230 C180,212 182,185 192,154 Z" fill="#FBF8F1" />
+    <path d="M187,147 C168,174 150,198 138,214 C148,200 165,178 181,143 Z" fill="#FBF8F1" />
+    <path d="M177,136 C145,145 118,155 100,164 C115,152 142,140 174,130 Z" fill="#FBF8F1" />
+    <path d="M176,122 C146,110 118,102 96,98 C115,106 142,116 174,125 Z" fill="#FBF8F1" />
+    <path d="M184,111 C165,85 145,64 130,52 C140,68 158,92 180,113 Z" fill="#FBF8F1" />
+  </g>
+</svg>

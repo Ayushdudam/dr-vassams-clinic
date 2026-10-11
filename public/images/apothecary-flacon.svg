@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" stroke="#1F3D33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Minimalist Apothecary Flacon & Dropper -->
+  <g opacity="0.9">
+    <!-- Dropper Bulb -->
+    <path d="M190,40 C190,32 194,25 200,25 C206,25 210,32 210,40 L210,55 L190,55 Z" fill="#F3EEE2" stroke-width="2" />
+    
+    <!-- Dropper Collar / Cap -->
+    <rect x="180" y="55" width="40" height="20" rx="3" fill="#1F3D33" stroke="#1F3D33" />
+    <line x1="185" y1="65" x2="215" y2="65" stroke="#FBF8F1" stroke-width="1.5" />
+    
+    <!-- Bottle Neck -->
+    <rect x="185" y="75" width="30" height="25" fill="#F3EEE2" stroke="#1F3D33" />
+    
+    <!-- Bottle Shoulders & Body -->
+    <path d="M185,100 C155,105 140,125 140,160 L140,320 C140,345 155,360 180,360 L220,360 C245,360 260,345 260,320 L260,160 C260,125 245,105 215,100 Z" fill="#FBF8F1" stroke-width="2.5" />
+    
+    <!-- Bottle Base Rim -->
+    <path d="M150,360 C170,366 230,366 250,360" stroke-width="1.5" />
+    
+    <!-- Classical Prescription Label Frame -->
+    <rect x="160" y="150" width="80" height="150" rx="4" fill="#F3EEE2" stroke="#1F3D33" stroke-width="1.5" />
+    <line x1="172" y1="175" x2="228" y2="175" stroke="#1F3D33" stroke-width="2" />
+    <line x1="175" y1="195" x2="225" y2="195" stroke="#1F3D33" stroke-width="1" stroke-dasharray="2 2" />
+    <line x1="175" y1="215" x2="225" y2="215" stroke="#1F3D33" stroke-width="1" stroke-dasharray="2 2" />
+    <line x1="175" y1="235" x2="225" y2="235" stroke="#1F3D33" stroke-width="1" stroke-dasharray="2 2" />
+    
+    <!-- Inner Dropper Pipette Reflection -->
+    <line x1="198" y1="100" x2="198" y2="300" stroke="#1F3D33" stroke-width="1.5" opacity="0.4" />
+    <line x1="202" y1="100" x2="202" y2="300" stroke="#1F3D33" stroke-width="1.5" opacity="0.4" />
+    
+    <!-- Glass Highlight Reflection -->
+    <path d="M148,150 L148,310" stroke="#1F3D33" stroke-width="1.5" opacity="0.3" />
+  </g>
+</svg>
